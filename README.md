@@ -1,8 +1,12 @@
-1)copy the file to webroot folder
-2)change the db in .env file
-3)run the command :  php artisan migrate
-4)use postman application and run post method .for eg: url will be like http://127.0.0.1:8000/incidents/
-5)used the json as 
+1)copy the file to webroot folder                                                                                     
+
+2)change the db in .env file                                                           
+
+3)run the command :  php artisan migrate                                                         
+
+4)use postman application and run post method .for eg: url will be like http://127.0.0.1:8000/incidents/       
+
+5)used the json as                                        
 {
       "id": 0,
       "location": {
